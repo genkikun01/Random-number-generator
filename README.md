@@ -1,4 +1,4 @@
-# Random-number-generator
+# Random-number-generator(乱数生成機)
 なにかの時に使ってください。
 
 ## Q.どんなときに使うの?
